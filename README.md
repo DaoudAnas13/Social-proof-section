@@ -1,4 +1,6 @@
 
-# Responsive Social proof section w/ Reviews and Testimonials using CSS Grid 
+# Responsive Social proof section using CSS Grid 
+
+Reviews and Testimonials display
 
 
